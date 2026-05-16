@@ -100,4 +100,6 @@ jump values and how jump works
 
 find tournament history
 
+shockwave mechanics and dodging
 
+controller connection issues

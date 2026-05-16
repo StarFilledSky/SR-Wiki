@@ -20,6 +20,7 @@ plugins:
       position: bottom 
 
   # - autorefs #todo look into
+
 extra_css:
   - assets/stylesheets/extra.css
 
@@ -27,6 +28,7 @@ extra_css:
 theme:
   favicon: assets/images/favicon.ico
   name: material
+  language: en
   
   features:
     - search.highlight

@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://starfilledsky.github.io/SR-Wiki/</loc>
-         <lastmod>2026-03-25</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
          <loc>https://starfilledsky.github.io/SR-Wiki/Maps/</loc>
-         <lastmod>2026-03-25</lastmod>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
-         <loc>https://starfilledsky.github.io/SR-Wiki/unsorted/</loc>
-         <lastmod>2026-03-25</lastmod>
+         <loc>https://starfilledsky.github.io/SR-Wiki/Incomplete/SlopeSurfing/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
     <url>
-         <loc>https://starfilledsky.github.io/SR-Wiki/Learning/Getting%20Started/</loc>
-         <lastmod>2026-03-25</lastmod>
+         <loc>https://starfilledsky.github.io/SR-Wiki/Incomplete/unsorted/</loc>
+         <lastmod>2026-04-12</lastmod>
+    </url>
+    <url>
+         <loc>https://starfilledsky.github.io/SR-Wiki/Incomplete/Learning/Getting%20Started/</loc>
+         <lastmod>2026-04-12</lastmod>
     </url>
 </urlset>
