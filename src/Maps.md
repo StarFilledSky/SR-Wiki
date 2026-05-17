@@ -48,12 +48,12 @@ I NEED TO REDO LAST PART [link](https://steamcommunity.com/sharedfiles/filedetai
 todo add maps here that are worth checking out for the map design, or creativity, fun, historical reasons, etc...
 
 
-### Notable maps  
+### Map Collections  
 
-bartvanm's parkour collection [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3650725082)
+collection of parkour maps [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3650725082)
 
 
-todo attach reasoning for additions
-todo organize a list of spike maps
-todo organize a console rws map list
-todo organize 
+
+### Auto maps
+
+[OwO](https://steamcommunity.com/sharedfiles/filedetails/?id=3726483483)
