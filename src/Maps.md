@@ -48,10 +48,11 @@ I NEED TO REDO LAST PART [link](https://steamcommunity.com/sharedfiles/filedetai
 todo add maps here that are worth checking out for the map design, or creativity, fun, historical reasons, etc...
 
 
-### Map Collections  
+### Notable Collections  
 
-collection of parkour maps [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3650725082)
+- Collection of parkour maps [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3650725082)  
 
+- The account used for RWS [link](https://steamcommunity.com/profiles/76561198172969226/myworkshopfiles/)
 
 
 ### Auto maps
