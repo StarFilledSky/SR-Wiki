@@ -17,3 +17,88 @@
 .md-typeset a:hover {
     color: hsl(45, 100%, 66%);
 }
+
+.md-nav {
+    line-height: 1;
+}
+
+.md-typeset code {
+    /* background-color: hsla(227, 48.1%, 54.7%, 0.26); */
+    /* color: #c3a0ff; */
+    /* padding: 0 .2em; */
+    margin: .1em;
+}
+
+
+/* stopping the odd spacing that comes with attr_list */
+.velo-category {
+    margin: 0px;
+}
+
+.velo-category code {
+    padding: 0 .2em;
+}
+
+/* Dark mode */
+[data-md-color-scheme="slate"] {
+
+    .velo-category code {
+        background-color: hsla(227, 48.1%, 54.7%, 0.26);
+        color: hsl(262, 100%, 81%);
+    }
+
+    p.velo-category {
+        color: hsl(0, 0%, 100%);
+    }
+
+    h.velo-category2 {
+        color: hsl(196.6, 100%, 83.7%);
+        font-weight: bold;
+    }
+
+    h.velo-category3 {
+        color: hsl(262.2, 47%, 54.9%);
+    }
+
+    a.velo-category {
+        color: hsl(224.6, 100%, 72.5%);
+    }
+
+    a.velo-category:hover {
+        color: hsl(45, 100%, 66%);
+    } */
+
+    .velo-class code {
+        color: hsl(124, 100%, 81%);
+
+    }
+
+    .velo-target code {
+        color: hsl(56, 100%, 81%);
+    }
+
+
+
+}
+
+
+[data-md-color-scheme="light"] {
+    .velo-category code {
+        background-color: hsla(227.1, 71.8%, 70.8%, 0.26);
+        color:hsl(262, 36%, 54%);
+    }
+    
+    .velo-target code {
+        color: hsl(33.7, 81.5%, 46.7%);
+    }
+
+    .velo-class code {
+        color: hsl(103.3, 100%, 28.8%);
+    }
+
+    
+    p.velo-category {
+        color: hsl(0, 0%, 0%);
+    }
+
+}
