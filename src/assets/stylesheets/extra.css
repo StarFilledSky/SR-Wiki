@@ -1,18 +1,18 @@
-+/* nothing feel better than just having it default */
-+/* .md-typeset h1 {
-+    color: hsl(219, 100%, 97%);
-+} */
-+
-+.md-typeset h2 {
-+    color: hsl(222.5, 100%, 77.8%);
-+}
-+
-+.md-typeset h3 {
-+    color: hsl(262.2, 47%, 54.9%);
-+}
-+.md-typeset a {
-+    color: hsl(224.6, 100%, 72.5%);
-+}
-+.md-typeset a:hover {
-+    color: hsl(45, 100%, 66%);
-+}
+/* nothing feel better than just having it default */
+/* .md-typeset h1 {
+    color: hsl(219, 100%, 97%);
+} */
+
+.md-typeset h2 {
+    color: hsl(222.5, 100%, 77.8%);
+}
+
+.md-typeset h3 {
+    color: hsl(262.2, 47%, 54.9%);
+}
+.md-typeset a {
+    color: hsl(224.6, 100%, 72.5%);
+}
+.md-typeset a:hover {
+    color: hsl(45, 100%, 66%);
+}
