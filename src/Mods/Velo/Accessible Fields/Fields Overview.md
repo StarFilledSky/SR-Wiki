@@ -99,6 +99,10 @@ A listing of the fields accessable in some way with velo scripts
 {: .velo-category .velo-target }
 
 `Target`
+ [Slot][target-slot]  
+{: .velo-category .velo-target }
+
+`Target`
  [SoloCameraModifier][target-solocameramodifier]  
 {: .velo-category .velo-target }
 
@@ -135,95 +139,7 @@ A listing of the fields accessable in some way with velo scripts
 {: .velo-category .velo-target }
 
 `Class`
- [Leaves][class-leaves]  
-{: .velo-category .velo-class }
-
-`Class`
- [EditableString][class-editablestring]  
-{: .velo-category .velo-class }
-
-`Class`
- [RocketLauncher][class-rocketlauncher]  
-{: .velo-category .velo-class }
-
-`Class`
- [Obstacle][class-obstacle]  
-{: .velo-category .velo-class }
-
-`Class`
- [Rope][class-rope]  
-{: .velo-category .velo-class }
-
-`Class`
- [Random][class-random]  
-{: .velo-category .velo-class }
-
-`Class`
- [SuperBoostVolume][class-superboostvolume]  
-{: .velo-category .velo-class }
-
-`Class`
- [Timer][class-timer]  
-{: .velo-category .velo-class }
-
-`Class`
- [Pickup][class-pickup]  
-{: .velo-category .velo-class }
-
-`Class`
- [GoldenHook][class-goldenhook]  
-{: .velo-category .velo-class }
-
-`Class`
- [Matrix][class-matrix]  
-{: .velo-category .velo-class }
-
-`Class`
- [EditableInt][class-editableint]  
-{: .velo-category .velo-class }
-
-`Class`
- [DroppedBomb][class-droppedbomb]  
-{: .velo-category .velo-class }
-
-`Class`
- [Bookcase][class-bookcase]  
-{: .velo-category .velo-class }
-
-`Class`
- [DecoLight][class-decolight]  
-{: .velo-category .velo-class }
-
-`Class`
- [CSpriteDrawComponent][class-cspritedrawcomponent]  
-{: .velo-category .velo-class }
-
-`Class`
- [Velo][class-velo]  
-{: .velo-category .velo-class }
-
-`Class`
- [DecoGlow][class-decoglow]  
-{: .velo-category .velo-class }
-
-`Class`
- [ClampCameraModifier][class-clampcameramodifier]  
-{: .velo-category .velo-class }
-
-`Class`
- [FreezeRay][class-freezeray]  
-{: .velo-category .velo-class }
-
-`Class`
- [Player][class-player]  
-{: .velo-category .velo-class }
-
-`Class`
- [EditableEnum][class-editableenum]  
-{: .velo-category .velo-class }
-
-`Class`
- [Vector2][class-vector2]  
+ [CCamera][class-ccamera]  
 {: .velo-category .velo-class }
 
 `Class`
@@ -231,39 +147,23 @@ A listing of the fields accessable in some way with velo scripts
 {: .velo-category .velo-class }
 
 `Class`
- [Trigger][class-trigger]  
+ [Rocket][class-rocket]  
 {: .velo-category .velo-class }
 
 `Class`
- [StraightRocket][class-straightrocket]  
+ [EditableString][class-editablestring]  
 {: .velo-category .velo-class }
 
 `Class`
- [BouncePad][class-bouncepad]  
+ [GoldenHook][class-goldenhook]  
 {: .velo-category .velo-class }
 
 `Class`
- [Lever][class-lever]  
+ [DecoGlow][class-decoglow]  
 {: .velo-category .velo-class }
 
 `Class`
- [TriggerSaw][class-triggersaw]  
-{: .velo-category .velo-class }
-
-`Class`
- [CConvexPolygon][class-cconvexpolygon]  
-{: .velo-category .velo-class }
-
-`Class`
- [Shockwave][class-shockwave]  
-{: .velo-category .velo-class }
-
-`Class`
- [EditableFloat][class-editablefloat]  
-{: .velo-category .velo-class }
-
-`Class`
- [ShakeCameraModifier][class-shakecameramodifier]  
+ [Tunnel][class-tunnel]  
 {: .velo-category .velo-class }
 
 `Class`
@@ -271,19 +171,23 @@ A listing of the fields accessable in some way with velo scripts
 {: .velo-category .velo-class }
 
 `Class`
- [EditableBool][class-editablebool]  
+ [DecoText][class-decotext]  
 {: .velo-category .velo-class }
 
 `Class`
- [Grapple][class-grapple]  
+ [Slot][class-slot]  
 {: .velo-category .velo-class }
 
 `Class`
- [CAABB][class-caabb]  
+ [EditableEnum][class-editableenum]  
 {: .velo-category .velo-class }
 
 `Class`
- [Deco][class-deco]  
+ [ClampCameraModifier][class-clampcameramodifier]  
+{: .velo-category .velo-class }
+
+`Class`
+ [EditableInt][class-editableint]  
 {: .velo-category .velo-class }
 
 `Class`
@@ -291,15 +195,23 @@ A listing of the fields accessable in some way with velo scripts
 {: .velo-category .velo-class }
 
 `Class`
- [CActor][class-cactor]  
+ [Grapple][class-grapple]  
 {: .velo-category .velo-class }
 
 `Class`
- [Rocket][class-rocket]  
+ [CSpriteDrawComponent][class-cspritedrawcomponent]  
 {: .velo-category .velo-class }
 
 `Class`
- [CImageDrawComponent][class-cimagedrawcomponent]  
+ [Player][class-player]  
+{: .velo-category .velo-class }
+
+`Class`
+ [StraightRocket][class-straightrocket]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Velo][class-velo]  
 {: .velo-category .velo-class }
 
 `Class`
@@ -307,15 +219,15 @@ A listing of the fields accessable in some way with velo scripts
 {: .velo-category .velo-class }
 
 `Class`
- [Fireball][class-fireball]  
-{: .velo-category .velo-class }
-
-`Class`
  [SwitchBlock][class-switchblock]  
 {: .velo-category .velo-class }
 
 `Class`
- [Laser][class-laser]  
+ [RocketLauncher][class-rocketlauncher]  
+{: .velo-category .velo-class }
+
+`Class`
+ [SuperBoostVolume][class-superboostvolume]  
 {: .velo-category .velo-class }
 
 `Class`
@@ -323,15 +235,115 @@ A listing of the fields accessable in some way with velo scripts
 {: .velo-category .velo-class }
 
 `Class`
- [DecoText][class-decotext]  
+ [ShakeCameraModifier][class-shakecameramodifier]  
 {: .velo-category .velo-class }
 
 `Class`
- [CCamera][class-ccamera]  
+ [CImageDrawComponent][class-cimagedrawcomponent]  
 {: .velo-category .velo-class }
 
 `Class`
- [Tunnel][class-tunnel]  
+ [Matrix][class-matrix]  
+{: .velo-category .velo-class }
+
+`Class`
+ [CAABB][class-caabb]  
+{: .velo-category .velo-class }
+
+`Class`
+ [EditableFloat][class-editablefloat]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Rope][class-rope]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Vector2][class-vector2]  
+{: .velo-category .velo-class }
+
+`Class`
+ [CConvexPolygon][class-cconvexpolygon]  
+{: .velo-category .velo-class }
+
+`Class`
+ [BouncePad][class-bouncepad]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Pickup][class-pickup]  
+{: .velo-category .velo-class }
+
+`Class`
+ [EditableBool][class-editablebool]  
+{: .velo-category .velo-class }
+
+`Class`
+ [CCollisionFilter][class-ccollisionfilter]  
+{: .velo-category .velo-class }
+
+`Class`
+ [CActor][class-cactor]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Random][class-random]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Laser][class-laser]  
+{: .velo-category .velo-class }
+
+`Class`
+ [TriggerSaw][class-triggersaw]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Leaves][class-leaves]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Timer][class-timer]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Fireball][class-fireball]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Obstacle][class-obstacle]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Lever][class-lever]  
+{: .velo-category .velo-class }
+
+`Class`
+ [DecoLight][class-decolight]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Deco][class-deco]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Bookcase][class-bookcase]  
+{: .velo-category .velo-class }
+
+`Class`
+ [DroppedBomb][class-droppedbomb]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Trigger][class-trigger]  
+{: .velo-category .velo-class }
+
+`Class`
+ [FreezeRay][class-freezeray]  
+{: .velo-category .velo-class }
+
+`Class`
+ [Shockwave][class-shockwave]  
 {: .velo-category .velo-class }
 
 `Class`
