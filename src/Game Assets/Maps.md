@@ -7,6 +7,7 @@
 
 ### Spam / Straight Grapple  
 - Grapple Circuit [link](https://steamcommunity.com/sharedfiles/filedetails/?id=1399530740)  
+- GrappleBeast [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3726562916)  
 - Grapple Warmup [link](https://steamcommunity.com/sharedfiles/filedetails/?id=1566224884)  
 - grapple Test [link](https://steamcommunity.com/sharedfiles/filedetails/?id=2421953660)  
 - Sonic Speed Hooks v2 [link](https://steamcommunity.com/sharedfiles/filedetails/?id=2481985958)
@@ -42,19 +43,25 @@ I NEED TO REDO LAST PART [link](https://steamcommunity.com/sharedfiles/filedetai
 
 ### Gainers
 - Evil bonkers jumps! [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3378378567)  
+- gainerfall [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3738949296)  
 
 
-## Other Maps
-todo add maps here that are worth checking out for the map design, or creativity, fun, historical reasons, etc...
+## Other Maps  
+todo add maps here that are worth checking out for the map design, or creativity, fun, historical reasons, etc...  
 
 
 ### Notable Collections  
 
-- Collection of parkour maps [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3650725082)  
+- Parkour & Challenge Maps Ultimate Collection [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3650725082)  
 
-- The account used for RWS [link](https://steamcommunity.com/profiles/76561198172969226/myworkshopfiles/)
+- The account used for curated workshop [link](https://steamcommunity.com/profiles/76561198172969226/myworkshopfiles/)  
 
 
-### Auto maps
+### Auto maps  
 
-[OwO](https://steamcommunity.com/sharedfiles/filedetails/?id=3726483483)
+- OwO [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3726483483)  
+
+
+### Other
+
+- 10 bit adder [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3275215532)
